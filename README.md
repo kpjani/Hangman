@@ -13,7 +13,7 @@ For guessing the words correctly, The program first uses the character frequency
 along with an english dictionary availavle here (http://dreamsteep.com/projects/the-english-open-word-list.html )
 
 
-Since for guessing each word, 10 guesses are allowed, the program first makes 5 guesses using the character frequency information.
+Since for guessing each word, 10 guesses are allowed, the program first makes 3 guesses using the character frequency information.
 
 
 Once one or more characters are correctly guess (that's the case most probably), the remaining characters are guessed by searching in the dictionary. 

@@ -2,7 +2,7 @@
 
 
 
-This is Ruby a program to play Hangman, guessing words from [Strikingly](https://www.strikingly.com) server through a RESTful API.
+This is a Ruby program to play Hangman, guessing words from [Strikingly](https://www.strikingly.com) server through a RESTful API.
 
 Detailed description about the program is available [Here](https://github.com/joycehan/strikingly-interview-test-instructions/tree/new)
 

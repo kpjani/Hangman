@@ -8,9 +8,9 @@ Detailed description about the program is available [Here](https://github.com/jo
 
 The Ruby program is written as per the instructions provided.
 
-For guessing the words correctly, The program first uses the character frequency information available here (http://www.datagenetics.com/blog/april12012/)
+For guessing the words correctly, The program first uses the character frequency information available [here](http://www.datagenetics.com/blog/april12012/)
 
-along with an english dictionary availavle here (http://dreamsteep.com/projects/the-english-open-word-list.html )
+along with an english dictionary availavle [here](http://dreamsteep.com/projects/the-english-open-word-list.html)
 
 
 Since for guessing each word, 10 guesses are allowed, the program first makes 3 guesses using the character frequency information.
@@ -25,7 +25,7 @@ For reducing the negative scoring,
 
 To improve the search efficiency from dictionary, most common characters matching the required characters are identified and used as a guess.
 
-The algorithm works very well for lengthy words as compared to shorter words. 
+The algorithm works very well for lengthy words as compared to shorter words, and scores more than 1000 most of the time. 
 
 #Instructions
 
